@@ -1,0 +1,1 @@
+python script.py -i C:\Users\jovan\PycharmProjects\CV\Lab\LAB4\download.jpg -p C:\Users\jovan\PycharmProjects\CV\Lab\LAB4\bvlc_googlenet.prototxt -m C:\Users\jovan\PycharmProjects\CV\Lab\LAB4\bvlc_googlenet.caffemodel -l C:\Users\jovan\PycharmProjects\CV\Lab\LAB4\classification_classes_ILSVRC2012.txt
